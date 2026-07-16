@@ -2,7 +2,7 @@
 
 An end-to-end sales analysis of quick-commerce grocery order data — cleaning a messy raw export, building an interactive dashboard, and turning the results into business insights and recommendations.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ## 📌 Problem Statement
 
@@ -16,11 +16,11 @@ Zepto (a quick-commerce grocery delivery platform) generates a continuous stream
 
 ## 📂 Repository Contents
 
-| File                                           | Description                                                                                                                                                    |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `dataset/zepto_sales_raw.xlsx`               | Raw, uncleaned transactional export — 1,500 orders, 28 columns                                                                                                |
-| `Zepto_Sales_Performance_Documentation.docx` | Full project write-up: problem statement, dataset description, data cleaning process, dashboard design, key insights, business recommendations, and conclusion |
-| `Dashboard.png`                              | Dashboard preview                                                                                                                                              |
+| File                                                         | Description                                                                                                                                                    |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `dataset/zepto_sales_raw.xlsx`                             | Raw, uncleaned transactional export — 1,500 orders, 28 columns                                                                                                |
+| `Documentation/Zepto_Sales_Performance_Documentation.docx` | Full project write-up: problem statement, dataset description, data cleaning process, dashboard design, key insights, business recommendations, and conclusion |
+| `Images/Dashboard.png`                                     | Dashboard preview                                                                                                                                              |
 
 ## 🗂️ Dataset
 
