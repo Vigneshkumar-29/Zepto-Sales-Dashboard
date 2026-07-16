@@ -16,11 +16,11 @@ Zepto (a quick-commerce grocery delivery platform) generates a continuous stream
 
 ## 📂 Repository Contents
 
-| File | Description |
-|---|---|
-| `zepto_sales_raw.xlsx` | Raw, uncleaned transactional export — 1,500 orders, 28 columns |
+| File                                           | Description                                                                                                                                                    |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `zepto_sales_raw.xlsx`                       | Raw, uncleaned transactional export — 1,500 orders, 28 columns                                                                                                |
 | `Zepto_Sales_Performance_Documentation.docx` | Full project write-up: problem statement, dataset description, data cleaning process, dashboard design, key insights, business recommendations, and conclusion |
-| `Screenshot_2026-07-16_122900.png` | Dashboard preview |
+| `Dashboard.png`                              | Dashboard preview                                                                                                                                              |
 
 ## 🗂️ Dataset
 
